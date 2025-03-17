@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/ezequias.me-000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.linkedin.com/in/ezequiasaramburu" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="margin-right: 10px;"/>
   </a>
   <a href="https://twitter.com/ezequias_dev" target="_blank">
-    <img src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10794.jpg" alt="Twitter (X)" width="40"/>
+    <img src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10794.jpg" alt="Twitter (X)" width="20"/>
   </a>
 </p>
